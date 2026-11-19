@@ -1,8 +1,9 @@
-Ex.No:5 Develop a simple calculator using android studio.
+## Ex.No:5 
+Develop a simple calculator using android studio.
 ## AIM:
 To develop a program to develop a simple calculator in Android Studio.
 
-EQUIPMENTS REQUIRED:
+## EQUIPMENTS REQUIRED:
 Android Studio(Min.required Artic Fox)
 
 ## ALGORITHM:
